@@ -4,7 +4,7 @@
 
 This project is an interactive **Financial Analysis Dashboard** developed using **Microsoft Power BI**.
 
-The dashboard provides an analytical view of financial transactions across states, months, customer segments, transaction types, gender, tax, fees, and year-over-year performance.
+The dashboard provides an analytical view of financial transactions across states, months, customer segments, transaction types, gender, tax, fees, and year-over-year performance. Have created Genie AI Agent(Q&A).
 
 ---
 
